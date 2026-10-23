@@ -1,0 +1,6 @@
+{
+  "name": "Sharky Math Adventure",
+  "description": "Bahan ajar interaktif bimbingan belajar Sharky Learning untuk matematika kelas 4 SD dengan tema petualangan bawah laut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
